@@ -18,22 +18,27 @@ h4 {
   font-weight: bold;
 }
 
-#title {
+.title {
   font-size: 70px;
   font-weight: bold;
+}
+
+.nav-button {
+  font-size: 18px;
+  color: white;
 }
 
 #navigation {
   font-size: 18px;
 }
 
-.header {
+#header {
   color: white;
 }
 
-.header {
+#header {
   background-image: url("./images/the-flatiron-building.png");
-  background-size: cover;
+  background-size: auto;
   background-position: top;
   height: auto;
   }

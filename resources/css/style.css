@@ -3,13 +3,28 @@ html {
   text-align: center;
 }
 
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 #title {
-  font-siz: 70px;
+  font-size: 70px;
   font-weight: bold;
 }
 
 #navigation {
-  font-size: 18px;  
+  font-size: 18px;
 }
 
 .header {
@@ -22,3 +37,13 @@ html {
   background-position: top;
   height: auto;
   }
+
+  .footer {
+    background-color: dimgray;
+    color: white;
+    text-align: left;
+  }
+
+#copy_right {
+  font-size: 11px;
+}
